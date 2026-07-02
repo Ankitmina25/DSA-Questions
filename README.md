@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0394-decode-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
