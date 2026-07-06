@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ankitmina25/DSA-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ankitmina25/DSA-Questions/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0566-reshape-the-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0898-transpose-matrix) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0898-transpose-matrix) |
