@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Ankitmina25/DSA-Questions/tree/master/0498-diagonal-traverse) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Ankitmina25/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0566-reshape-the-matrix) |
@@ -118,4 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
