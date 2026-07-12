@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Ankitmina25/DSA-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Ankitmina25/DSA-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
 | ------- |
