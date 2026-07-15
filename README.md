@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
