@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ankitmina25/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Ankitmina25/DSA-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ankitmina25/DSA-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0048-rotate-image) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ankitmina25/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ankitmina25/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ankitmina25/DSA-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
