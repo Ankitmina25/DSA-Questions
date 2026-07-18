@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ankitmina25/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Ankitmina25/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0898-transpose-matrix) |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitmina25/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Ankitmina25/DSA-Questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
