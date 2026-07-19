@@ -5,8 +5,8 @@ class Solution {
         int right=0;
         for(int i=0;i<mat.length;i++){
             left+=mat[i][i];
-            if(i==mat.length-1-i) continue;
-            right+=mat[i][mat.length-1-i];  
+            if(i==mat.length-i-1) continue;
+            right+=mat[i][mat.length-1-i];
         }
         sum=left+right;
         return sum;
