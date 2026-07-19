@@ -15,12 +15,15 @@ class Solution {
         for(int i=0;i<n;i++){
             fast=fast.next;
         }
-        if(fast==null) return head.next;
-        while(fast.next!=null){
+        if(fast == null) return head.next;
+        ListNode prev=null;
+        while(fast!=null){
+            prev=slow;
             slow=slow.next;
             fast=fast.next;
         }
-        slow.next=slow.next.next;
+        prev.next=slow.next;
         return head;
+        
     }
 }
