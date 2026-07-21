@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Ankitmina25/DSA-Questions/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ankitmina25/DSA-Questions/tree/master/0724-find-pivot-index) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
