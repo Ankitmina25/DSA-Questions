@@ -7,7 +7,7 @@ class Solution {
             right=Math.max(right,piles[i]);
         }
         while(left<=right){
-            int mid= left+(right-left)/2;
+           int mid=left+(right-left)/2;
             long count=0;
             for(int i=0;i<piles.length;i++){
                 count+=piles[i]/mid;
@@ -16,9 +16,12 @@ class Solution {
                 }
             }
             if(count<=h){
-                right=mid-1;
                 ans=mid;
-            }else left=mid+1;
+                right=mid-1;
+            }
+            else{
+                left=mid+1;
+            }
         }
         return ans;
     }
