@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ankitmina25/DSA-Questions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Ankitmina25/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitmina25/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ankitmina25/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitmina25/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
