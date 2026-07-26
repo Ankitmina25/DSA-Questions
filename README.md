@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Ankitmina25/DSA-Questions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmina25/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ankitmina25/DSA-Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankitmina25/DSA-Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 ## Binary Search
 |  |
