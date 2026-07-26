@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankitmina25/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ankitmina25/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankitmina25/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Ankitmina25/DSA-Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankitmina25/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 ## Binary Search
 |  |
