@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Ankitmina25/DSA-Questions/tree/master/0498-diagonal-traverse) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankitmina25/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
@@ -193,12 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankitmina25/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 ## Binary Search
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ankitmina25/DSA-Questions/tree/master/0907-koko-eating-bananas) |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankitmina25/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
