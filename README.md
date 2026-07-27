@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitmina25/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankitmina25/DSA-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitmina25/DSA-Questions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ankitmina25/DSA-Questions/tree/master/1791-richest-customer-wealth) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ankitmina25/DSA-Questions/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1603-running-sum-of-1d-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
