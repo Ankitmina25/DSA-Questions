@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Ankitmina25/DSA-Questions/tree/master/0907-koko-eating-bananas) |
+| [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitmina25/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 ## Binary Search
 |  |
