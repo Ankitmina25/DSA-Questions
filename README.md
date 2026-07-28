@@ -244,12 +244,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankitmina25/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankitmina25/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ankitmina25/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/Ankitmina25/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ankitmina25/DSA-Questions/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -289,12 +291,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankitmina25/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankitmina25/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ankitmina25/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankitmina25/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankitmina25/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ankitmina25/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
 ## Counting
 |  |
 | ------- |
