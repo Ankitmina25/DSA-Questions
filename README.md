@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ankitmina25/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Ankitmina25/DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0088-merge-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Ankitmina25/DSA-Questions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0088-merge-sorted-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ankitmina25/DSA-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ankitmina25/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0148-sort-list) |
