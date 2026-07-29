@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ankitmina25/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitmina25/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitmina25/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
@@ -314,4 +316,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitmina25/DSA-Questions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
