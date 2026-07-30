@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitmina25/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Ankitmina25/DSA-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Ankitmina25/DSA-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
