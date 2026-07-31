@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Ankitmina25/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0566-reshape-the-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitmina25/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Ankitmina25/DSA-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankitmina25/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 ## Binary Search
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ankitmina25/DSA-Questions/tree/master/0907-koko-eating-bananas) |
