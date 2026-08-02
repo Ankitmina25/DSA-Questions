@@ -7,19 +7,18 @@ class Solution {
             right=Math.max(right,piles[i]);
         }
         while(left<=right){
-           int mid=left+(right-left)/2;
-            long count=0;
+            int mid =  left+(right-left)/2;
+            long hr=0;
             for(int i=0;i<piles.length;i++){
-                count+=piles[i]/mid;
+                hr+=piles[i]/mid;
                 if(piles[i]%mid!=0){
-                    count++;
+                    hr++;
                 }
             }
-            if(count<=h){
-                ans=mid;
+            if(hr<=h){
                 right=mid-1;
-            }
-            else{
+                ans=mid;
+            }else{
                 left=mid+1;
             }
         }
