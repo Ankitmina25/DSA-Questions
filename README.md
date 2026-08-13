@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Ankitmina25/DSA-Questions/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitmina25/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitmina25/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitmina25/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
