@@ -9,14 +9,14 @@
  * }
  */
 class Solution {
-    public ListNode reverse(ListNode head){
-        ListNode c=head;
+    public ListNode rev(ListNode curr,int k){
         ListNode prev=null;
-        while(c!=null ){
-            ListNode tmp= c.next;
-            c.next=prev;
-            prev=c;
-            c=tmp;
+        ListNode cr= curr;
+        while(cr!=null){
+            ListNode temp= cr.next;
+            cr.next=prev;
+            prev=cr;
+            cr=temp;
         }
         return prev;
     }
@@ -28,16 +28,16 @@ class Solution {
             count++;
         }
         if(count<k) return head;
-         count=1;
+        count=1;
         curr=head;
         while(count<k){
             curr=curr.next;
             count++;
         }
-        ListNode temp = curr.next;
-        curr.next=null;
-        ListNode newHead= reverse(head);
-        head.next=reverseKGroup(temp,k);
-        return newHead;
+    ListNode temp= curr.next;
+    curr.next=null;
+    ListNode newHead= rev(head,k);
+    head.next=reverseKGroup(temp,k);
+    return newHead;
     }
 }
