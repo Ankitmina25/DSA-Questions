@@ -398,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ankitmina25/DSA-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
