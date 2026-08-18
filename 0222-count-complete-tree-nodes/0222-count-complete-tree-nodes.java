@@ -29,7 +29,7 @@ class Solution {
         int left= leftH(root,0);
         int right=righth(root,0);
         if(left==right){
-            return (1<<left)-1;
+            return (int)Math.pow(2, left) - 1;
         }
         return 1+countNodes(root.left)+countNodes(root.right);
     }
