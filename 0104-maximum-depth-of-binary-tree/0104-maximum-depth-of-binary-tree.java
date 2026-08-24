@@ -14,14 +14,15 @@
  * }
  */
 class Solution {
-    public int dfs(TreeNode root,int count){
+    public int helper(TreeNode root,int count){
+        int maxy=Integer.MIN_VALUE;
         if(root==null) return count;
-        int left= dfs(root.left,count+1);
-        int right=dfs(root.right,count+1);
-        return Math.max(left,right);
-}
+            int left= helper(root.left,count+1);
+            int right= helper(root.right,count+1);
+            return  Math.max(left,right);
+    }
     public int maxDepth(TreeNode root) {
-        if(root==null) return 0;
-        return dfs(root,0);
+       int maxy= helper(root,0);
+        return maxy;
     }
 }
