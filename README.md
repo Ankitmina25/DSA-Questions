@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ankitmina25/DSA-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankitmina25/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1894-merge-strings-alternately](https://github.com/Ankitmina25/DSA-Questions/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Ankitmina25/DSA-Questions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
