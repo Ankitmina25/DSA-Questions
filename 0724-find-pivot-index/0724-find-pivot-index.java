@@ -7,9 +7,9 @@ class Solution {
         int left=0;
         int right=0;
         for(int i=0;i<nums.length;i++){
-                right=total-left-nums[i];
-                if(left==right) return i;
-                else left+=nums[i];
+            right=total-left-nums[i];
+            if(left==right)return i;
+            else left+=nums[i];
         }
         return -1;
     }
