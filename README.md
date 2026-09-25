@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ankitmina25/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitmina25/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ankitmina25/DSA-Questions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Ankitmina25/DSA-Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Ankitmina25/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0792-binary-search) |
@@ -468,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ankitmina25/DSA-Questions/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ankitmina25/DSA-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
