@@ -1,6 +1,6 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int left= Integer.MIN_VALUE;
+        int left=Integer.MIN_VALUE;
         int right=0;
         for(int i=0;i<nums.length;i++){
             left=Math.max(left,nums[i]);
@@ -8,7 +8,7 @@ class Solution {
         }
         int ans=0;
         while(left<=right){
-            int mid= left+(right-left)/2;
+            int mid=left+(right-left)/2;
             int sum=0;
             int count=1;
             for(int i=0;i<nums.length;i++){
@@ -19,9 +19,11 @@ class Solution {
                 }
             }
             if(count<=k){
-                    ans=mid;
-                    right=mid-1;    
-            }else left=mid+1;
+                ans=mid;
+                right=mid-1;
+            }else{
+                left=mid+1;
+            }
         }
         return ans;
     }
