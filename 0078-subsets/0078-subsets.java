@@ -1,5 +1,5 @@
 class Solution {
-    public void helper(int[] nums,List<List<Integer>>ans,List<Integer> curr,int idx){
+    public void helper(int[] nums,List<List<Integer>> ans, ArrayList<Integer> curr,int idx){
         if(idx==nums.length){
             ans.add(new ArrayList<>(curr));
             return;
@@ -11,7 +11,7 @@ class Solution {
     }
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans= new ArrayList<>();
-        List<Integer> curr= new ArrayList<>();
+        ArrayList<Integer> curr=new ArrayList<>();
         helper(nums,ans,curr,0);
         return ans;
     }
