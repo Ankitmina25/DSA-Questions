@@ -1,22 +1,22 @@
 class Solution {
-    public boolean helper(char[][] board, String word,int i,int j,int idx, boolean[][] visited){
+    public boolean helper(char[][] board,String word,boolean[][] visit,int row,int col,int idx){
         if(idx==word.length()) return true;
-        if(i<0 || j<0 || i>=board.length || j>=board[0].length || visited[i][j] || board[i][j]!=word.charAt(idx)) return false;
-        visited[i][j]= true;
-                if(helper(board,word,i-1,j,idx+1,visited)) return true;
-                if(helper(board,word,i+1,j,idx+1,visited)) return true;
-                if(helper(board,word,i,j-1,idx+1,visited)) return true;
-                if(helper(board,word,i,j+1,idx+1,visited)) return true;
-                visited[i][j]=false;
-                return false;
+        if(row<0 || row>=board.length || col<0 || col>=board[0].length || board[row][col]!=word.charAt(idx) || visit[row][col]) return false;
+        visit[row][col]=true;
+        if(helper(board,word,visit,row,col+1,idx+1)) return true;
+        if(helper(board,word,visit,row+1,col,idx+1)) return true;
+        if(helper(board,word,visit,row,col-1,idx+1)) return true;
+        if(helper(board,word,visit,row-1,col,idx+1)) return true;
+        visit[row][col]=false;
+        return false;
     }
     public boolean exist(char[][] board, String word) {
-        boolean [][] visited= new boolean [board.length][board[0].length];
-        for(int i=0;i<board.length;i++){
-            for(int j=0;j<board[0].length;j++){
-                if(helper(board,word,i,j,0,visited)) return true;
+        boolean[][] visit= new boolean[board.length][board[0].length];
+        for(int row=0;row<board.length;row++){
+            for(int col=0;col<board[0].length;col++){
+                if(helper(board,word,visit,row,col,0)) return true;
             }
         }
-        return false;
+       return false;
     }
 }
