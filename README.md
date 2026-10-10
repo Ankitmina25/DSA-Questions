@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ankitmina25/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitmina25/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankitmina25/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankitmina25/DSA-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankitmina25/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankitmina25/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankitmina25/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankitmina25/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ankitmina25/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankitmina25/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankitmina25/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Ankitmina25/DSA-Questions/tree/master/2714-left-and-right-sum-differences) |
 ## Doubly-Linked List
