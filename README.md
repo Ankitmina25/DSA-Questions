@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Ankitmina25/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankitmina25/DSA-Questions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Ankitmina25/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitmina25/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Ankitmina25/DSA-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Ankitmina25/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankitmina25/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Ankitmina25/DSA-Questions/tree/master/1894-merge-strings-alternately) |
 ## Recursion
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ankitmina25/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Ankitmina25/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Ankitmina25/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0898-transpose-matrix) |
 ## Two Pointers
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Ankitmina25/DSA-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Ankitmina25/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
