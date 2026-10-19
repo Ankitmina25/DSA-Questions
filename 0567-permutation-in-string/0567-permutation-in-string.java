@@ -1,25 +1,32 @@
 class Solution {
+    // public boolean allZero(HashMap<Character,Integer> map){
+    //     for(int i : map.values()){
+    //         if(i!=0) return false;
+    //     }
+    //     return true;
+    // }
     public boolean checkInclusion(String s1, String s2) {
-        HashMap<Character,Integer> map = new HashMap<>();
-        HashMap<Character,Integer> map2= new HashMap<>();
+        HashMap<Character,Integer> map= new HashMap<>();
+        int left=0;
+        int right=0;
+        int size=s1.length();
         for(int i=0;i<s1.length();i++){
             char ch= s1.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        int left=0;
-        int right=0;
         while(right<s2.length()){
             char ch=s2.charAt(right);
-            map2.put(ch,map2.getOrDefault(ch,0)+1);
-            if(right-left+1>s1.length()){
+            map.put(ch,map.getOrDefault(ch,0)-1);
+            if(right-left+1>size){
                 char c= s2.charAt(left);
-                map2.put(c,map2.get(c)-1);
-                if(map2.get(c)==0) map2.remove(c);
+                map.put(c,map.get(c)+1);
                 left++;
             }
-            // if(right-left+1==s1.length()){
-            if(map2.equals(map)) return true;
-            // }
+            int check=0;
+            for(int i : map.values()){
+                if(i!=0) check=1;
+            }
+            if(right-left+1==size && check==0) return true;
             right++;
         }
         return false;
