@@ -17,9 +17,9 @@ class Solution {
                 if(map2.get(c)==0) map2.remove(c);
                 left++;
             }
-            if(right-left+1==s1.length()){
+            // if(right-left+1==s1.length()){
             if(map2.equals(map)) return true;
-            }
+            // }
             right++;
         }
         return false;
