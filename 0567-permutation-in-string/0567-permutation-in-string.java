@@ -10,14 +10,14 @@ class Solution {
         int right=0;
         while(right<s2.length()){
             char ch=s2.charAt(right);
-            map2.put(ch,map.getOrDefault(ch,0)+1);
+            map2.put(ch,map2.getOrDefault(ch,0)+1);
             if(right-left+1>s1.length()){
                 char c= s2.charAt(left);
                 map2.put(c,map2.get(c)-1);
                 if(map2.get(c)==0) map2.remove(c);
                 left++;
             }
-            if(right-left+1<=s1.length()){
+            if(right-left+1==s1.length()){
             if(map2.equals(map)) return true;
             }
             right++;
