@@ -14,19 +14,27 @@
  * }
  */
 class Solution {
-    public int left(TreeNode root,int count){
-        if(root==null) return count;
-        return left(root.left,count+1);
+    public int leftTree(TreeNode root){
+        int height=0;
+        while(root!=null){
+            height++;
+           root= root.left;
+        }
+        return height;
     }
-    public int right(TreeNode root,int count){
-        if(root==null) return count;
-        return right(root.right,count+1);
+    public int rightTree(TreeNode root){
+       int height=0;
+        while(root!=null){
+            height++;
+           root= root.right;
+        }
+        return height;
     }
     public int countNodes(TreeNode root) {
         if(root==null) return 0;
-        int left= left(root.left,0);
-        int right=right(root.right,0);
-        if(left==right) return (int) Math.pow(2,left+1)-1;
+        int left=leftTree(root.left);
+        int right=rightTree(root.right);
+        if(left==right) return (int)Math.pow(2,left+1)-1;
         return 1+countNodes(root.left)+countNodes(root.right);
     }
 }
