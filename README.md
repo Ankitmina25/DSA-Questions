@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankitmina25/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Ankitmina25/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Ankitmina25/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ankitmina25/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankitmina25/DSA-Questions/tree/master/0739-daily-temperatures) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Ankitmina25/DSA-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Ankitmina25/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ankitmina25/DSA-Questions/tree/master/0389-find-the-difference) |
+| [0658-find-k-closest-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 ## Binary Search
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankitmina25/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Ankitmina25/DSA-Questions/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Ankitmina25/DSA-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ankitmina25/DSA-Questions/tree/master/0907-koko-eating-bananas) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Ankitmina25/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/Ankitmina25/DSA-Questions/tree/master/1046-last-stone-weight) |
 ## Greedy
 |  |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitmina25/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ankitmina25/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitmina25/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmina25/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
