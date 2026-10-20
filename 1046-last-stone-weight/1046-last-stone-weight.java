@@ -2,7 +2,7 @@ class Solution {
     public int lastStoneWeight(int[] stones) {
         PriorityQueue<Integer> mx= new PriorityQueue<>((a,b) -> b-a);
         for(int i=0;i<stones.length;i++){
-            mx.add(stones[i]);
+            mx.offer(stones[i]);
         }
         while(mx.size()>1){
             int x= mx.poll();
