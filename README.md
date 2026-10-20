@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmina25/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankitmina25/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Ankitmina25/DSA-Questions/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitmina25/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankitmina25/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Ankitmina25/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/Ankitmina25/DSA-Questions/tree/master/1046-last-stone-weight) |
 ## Greedy
 |  |
 | ------- |
