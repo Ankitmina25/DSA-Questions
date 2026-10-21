@@ -14,15 +14,10 @@
  * }
  */
 class Solution {
-    public boolean helper(TreeNode root,int sum,int targetSum){
-        if(root==null) return false;
-        sum+=root.val;
-        if(root.left == null && root.right == null) return sum==targetSum;
-        boolean left= helper(root.left,sum,targetSum);
-        boolean right=helper(root.right,sum,targetSum);
-        return left || right;
-    }
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return helper(root,0,targetSum);
+        if(root==null) return false;
+        if(root.left==null && root.right==null) return targetSum==root.val;
+
+        return hasPathSum(root.left,targetSum-root.val) || hasPathSum(root.right,targetSum-root.val);
     }
 }
