@@ -10,7 +10,11 @@ class Solution {
             int mid=left+(right-left)/2;
             int sum=0;
             for(int i=0;i<nums.length;i++){
-                sum+=(nums[i]+mid-1)/mid;
+                int val = nums[i]/mid;
+                if(nums[i]%mid!=0){
+                    val++;
+                }
+                sum+=val;
             }
             if(sum<=threshold){
                 ans=mid;
