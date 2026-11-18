@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Ankitmina25/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Ankitmina25/DSA-Questions/tree/master/0940-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankitmina25/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ankitmina25/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ankitmina25/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/Ankitmina25/DSA-Questions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ankitmina25/DSA-Questions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ankitmina25/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ankitmina25/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ankitmina25/DSA-Questions/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/Ankitmina25/DSA-Questions/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankitmina25/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ankitmina25/DSA-Questions/tree/master/1253-sort-the-matrix-diagonally) |
 ## Binary Search
